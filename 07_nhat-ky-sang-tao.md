@@ -17,3 +17,6 @@
 ### 30/10/2026 00:38
 - **Đã làm / quyết định:** chốt kịch bản chính thức
 - **File thay đổi:** `03_kich-ban-chinh-sua.md`, `04_kich-ban-chinh-thuc.md`, `08_hoi-thoai-ai/claude-code/1ecc6cc1-892c-48ba-8de3-5bac9f178118.jsonl`
+
+### 30/10/2026 00:38
+- **Đã làm / quyết định:** CHỐT MỐC: hoàn thiện kịch bản chính thức
