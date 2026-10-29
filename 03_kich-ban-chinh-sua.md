@@ -2,7 +2,7 @@
 
 > Sửa trực tiếp trong file này. **Không cần lưu thành v1, v2, v3**: mỗi lần bấm LƯU, Git giữ lại một phiên bản. Muốn xem lại mọi phiên bản: mở file này trên GitHub, bấm **History**.
 
-**Tác phẩm:** WHEN_NOBODYS_WATCHING · **Lần sửa 1:** 29/10/2026 · gốc: `02_kich-ban-ban-nhap.md`
+**Tác phẩm:** WHEN_NOBODYS_WATCHING · **Lần sửa 1:** 29/10/2026 · **Lần sửa 2:** 30/10/2026 · gốc: `02_kich-ban-ban-nhap.md` · bản chốt: `04_kich-ban-chinh-thuc.md`
 
 ---
 
@@ -46,6 +46,25 @@ Những điểm **giữ nguyên có chủ ý**, tác giả lưu ý:
 Không dùng hắt nước (tránh trùng MOTHER OF THE GROOM). Thời lượng mỗi cụm vẫn giữ 30 giây; thoại thêm vào được bù bằng cách gộp/cắt câu cũ trong cùng cụm.
 
 **Đối chiếu "Luật viết đã áp" (THIET_KE.md mục 7):** mọi thoại mới đã soát lại — mỗi cụm 3–6 câu, ≤ 12 từ/câu, không từ cấm, không gọi tên người vắng mặt. **Ngoại lệ có chủ ý — luật số 7:** luật gốc chỉ cho thấy *hậu quả* cú gạt chân và giới hạn hành động vật lý; lần sửa này cố ý vượt luật theo yêu cầu tác giả (thấy rõ cú gạt chân, ném tóc giả, đá gậy, ném tiền, làm rơi bánh). ⚠️ Nên render thử cụm 01 trên công cụ tạo video trước: nếu cảnh người già bị gạt ngã bị chặn kiểm duyệt, quay về mở ngay sau cú ngã và giữ phần ném tóc giả + sỉ nhục.
+
+---
+
+## GHI CHÚ LẦN SỬA 2 — TĂNG ĐỘ GIỮ CHÂN NGƯỜI XEM (30/10/2026)
+
+Claude soát độ hấp dẫn, chỉ ra hai đoạn người xem dễ bỏ ngang (phút 18:00–25:00 khi phản diện chính vắng mặt; sau khi Bianca bị bắt ở ~32:30 khi không còn câu hỏi nào treo) và đề xuất 6 chỗ sửa. **Tác giả duyệt cả 6 và yêu cầu chốt.** Sau lần sửa này, kịch bản được chép sạch (bỏ ghi chú, bỏ dấu ✎) sang `04_kich-ban-chinh-thuc.md`.
+
+| # | Vấn đề | Cụm | Thay đổi |
+|---|---|---|---|
+| 1 | Chuyện ân nhân 200 đô chỉ được nói ra một lần ở phút 5 → không giữ được người xem tới cú lật cuối | 10, 56 | Beverly: "Never found her. Thirty-eight years, I still owe her." · Bài phát biểu dạ tiệc (bà Earnestine ngồi hàng đầu): "A lady loaned me two hundred dollars. Never paid her back." · Câu của Ayanna ở cụm 10 đổi thành "I know that story, ma'am." để khỏi bị hiểu là "biết bà còn nợ". |
+| 2 | Darius cãi mẹ để bênh vị hôn thê nhưng chưa một lần xin lỗi mẹ | 34 | "Mama. I should have believed you." — "Yes, baby. You should have." |
+| 3 | Ayanna bị đuổi rồi lên làm quản lý sau 2 phút → sự hy sinh không có sức nặng | 4 | "I need this job. I still don't step over people." |
+| 4 | Dạ tiệc xuất hiện lần đầu ở phút 11:30, không ai nói nó để làm gì | 12 | "In nine days, at my gala, my son announces the wedding." Bỏ ý "tiếp quản Rosewood" trong bản đề xuất vì phim không có cảnh nhậm chức CEO — tránh để lại tình tiết treo. |
+| 5 | Bianca vắng mặt 7 phút (18:00–25:00) | 37 | Vị khách áo hồng được thay bằng chính Bianca (giả bầu, Tamia livestream): hất xấp danh thiếp của Ayanna xuống sàn — "Nobody's booking a home-wrecker, sweetheart." — Ayanna: "I'm the manager. Book a chair or move on." |
+| 6 | Tập 15 và 16 kết thúc êm, không có đe doạ kéo sang tập sau | 45, 48 | Cụm 45: Charlene gọi thợ khoá — "Saturday. Noon sharp. Bring new locks." · Cụm 48: Charlene bắt gặp Latasha rời salon — "Cousin. What were you doing in there?" — "Picking up my last check." |
+
+**Kiểm tra sau sửa:** đủ 70 cụm, mốc thời gian liền mạch 00:00–35:00; mọi cụm 3–6 câu thoại, ≤ 12 từ/câu, không từ cấm, thoại ASCII, không gọi tên người vắng mặt. Riêng cụm 10 (có từ bản nháp): câu "My Big Mama..." gọi biệt danh bà Earnestine khi bà không có mặt → thêm `bo_qua_biet_danh: ["EARNESTINE"]`, giống cách cụm 13 đã làm.
+**Chưa áp dụng:** câu tuỳ chọn ở cụm 13 ("I met her twice. In diamonds, not a headscarf!") — tác giả chưa yêu cầu.
+**Cần đồng bộ ở `THIET_KE.md`:** thêm vai DRIVER (cụm 3), bỏ vai WOMAN (cụm 37 không còn), cập nhật luật số 7 (hành động vật lý mới), móc cuối tập 15–16 trong bản đồ nhịp.
 
 ---
 
@@ -278,7 +297,7 @@ Không dùng hắt nước (tránh trùng MOTHER OF THE GROOM). Thời lượng 
 ### TẬP 4 · I KNEW YOUR FACE · cụm 10–12 · 04:30–06:00
 
 #### Cụm 10 · 04:30–05:00 · A kitchen chair · VELOUR (ghế số 4) · liền · ✎ SỬA
-**Nhân vật:** BEVERLY (BV0), AYANNA (AY1M); NADINE (NA1, đứng chờ gần cửa kính, không nói); nền
+**Nhân vật:** BEVERLY (BV0), AYANNA (AY1M); NADINE (NA1, đứng chờ gần cửa kính, không nói); nền. "Big Mama" chỉ được nhắc tên — người ngoài khung (`bo_qua_biet_danh: ["EARNESTINE"]`)
 **Chức năng:** lộ mảnh ghép (đặt) · **Cung bậc:** ấm (+ hài) · **Vòng:** M2 dư âm · đặt R5 (bà cho vay 200 đô năm 1988) · mở vòng lặp: Beverly chưa tìm lại được ân nhân (trả ở cụm 56, 69–70)
 
 - Salon trở lại nhịp; máy sấy chạy, khách quay về ghế. Ayanna đỡ Beverly ngồi xuống ghế số 4 của mình — chiếc ghế có giá ba chân kẹp điện thoại và đèn vòng bên cạnh — phủ khăn lên vai bà.
@@ -1098,9 +1117,9 @@ Không dùng hắt nước (tránh trùng MOTHER OF THE GROOM). Thời lượng 
 **Khung kết:** Ayanna im lặng nhìn chị ta.
 **Móc:** Ayanna sẽ đòi gì?
 
-#### Cụm 48 · 23:30–24:00 · Out loud · VELOUR · liền
-**Nhân vật:** AYANNA, LATASHA
-**Chức năng:** lật (đồng minh mới) + móc · **Cung bậc:** quyết tâm · **Vòng:** đổi cán cân · đặt (Latasha ở dạ tiệc)
+#### Cụm 48 · 23:30–24:00 · Out loud · VELOUR → VELOUR_BOARDWALK · liền · ✎ SỬA
+**Nhân vật:** AYANNA, LATASHA (LA2); CHARLENE (CH1, lúc này mới bước xuống từ chiếc coupe trắng đậu ở lề lối gỗ, cuối cụm)
+**Chức năng:** lật (đồng minh mới) + móc (đồng minh bị bắt gặp) · **Cung bậc:** quyết tâm → hồi hộp · **Vòng:** đổi cán cân · đặt (Latasha ở dạ tiệc — liệu có còn dám tới?)
 
 - **AYANNA:** "Then don't just send it. Say it Saturday."
   *(VN) Vậy thì đừng chỉ gửi nó. Thứ Bảy hãy nói ra.*
@@ -1112,9 +1131,14 @@ Không dùng hắt nước (tránh trùng MOTHER OF THE GROOM). Thời lượng 
 - **LATASHA:** "Out loud."
   *(VN) Nói thành tiếng.*
 - Ayanna chìa tay; Latasha bắt lấy.
+- Latasha đi ra cửa kính, bước lên lối gỗ ven sông trong màn đêm. Một chiếc coupe trắng đậu sẵn ở lề; Charlene (áo da báo) mở cửa bước xuống, đứng chắn trước mặt Latasha.
+- **CHARLENE:** "Cousin. What were you doing in there?"
+  *(VN) Em họ. Cô vào trong đó làm gì?*
+- **LATASHA** (tay giữ chặt điện thoại trong túi áo khoác jean): "Picking up my last check."
+  *(VN) Lấy tháng lương cuối.*
 
-**Khung kết:** Latasha đi ra cửa kính vào màn đêm; Ayanna cầm lại cây chổi, nhìn theo.
-**Móc:** Thứ Bảy.
+**Khung kết:** Charlene nheo mắt, nhìn qua lớp kính vào trong salon, nơi Ayanna đang cầm chổi.
+**Móc:** Charlene có tin không — và thứ Bảy Latasha có còn dám tới?
 
 ---
 
@@ -1261,14 +1285,17 @@ Không dùng hắt nước (tránh trùng MOTHER OF THE GROOM). Thời lượng 
 **Khung kết:** Phòng thay đồ trống; trên bàn trang điểm, chiếc điện thoại dựng nghiêng vào hộp phấn vẫn sáng mép màn hình.
 **Móc:** 1,8 triệu người vừa nghe thấy — Bianca thì chưa biết.
 
-#### Cụm 56 · 27:30–28:00 · Two promises · GALA_BALLROOM · liền (vài phút sau)
+#### Cụm 56 · 27:30–28:00 · Two promises · GALA_BALLROOM · liền (vài phút sau) · ✎ SỬA
 **Nhân vật:** BEVERLY (BV3), BIANCA (BI5), DARIUS (DA3), NADINE (NA2, cạnh bàn điều khiển màn hình), AYANNA (AY5, không nói), EARNESTINE (EA3, không nói), CHARLENE (CH2, không nói), IMES (IM1, không nói); khoảng 120 khách da đen ăn mặc dạ tiệc (nền, đứng, im lặng)
-**Chức năng:** **chiến thắng giả của kẻ ác** (bút chạm giấy) · **Cung bậc:** hồi hộp · **Vòng:** S8 dựng sân khấu lớn nhất · đáy vực cho khán giả
+**Chức năng:** **chiến thắng giả của kẻ ác** (bút chạm giấy) · **Cung bậc:** hồi hộp · **Vòng:** S8 dựng sân khấu lớn nhất · đáy vực cho khán giả · nhắc lại vòng lặp 200 đô (trả ở cụm 69–70)
 
 - Phòng tiệc lớn ven sông: đèn chùm pha lê, khoảng 120 khách da đen trong đồ dạ tiệc đứng quanh các bàn tròn khăn trắng cắm hoa mộc lan — không ai ăn uống; sân khấu thấp với màn hình LED lớn phía sau. Hàng đầu bên trái: Ayanna và Earnestine. Hàng đầu bên phải: Charlene (đầm sequin đỏ, khăn choàng lông giả trắng). Nadine đứng cạnh bàn điều khiển màn hình ở cửa bên trái. Thám tử Imes (vest xám) đứng cạnh một cột phía sau, lẫn trong đám khách.
 - Beverly đứng ở mép sân khấu, không micro; cả phòng im phăng phắc.
 - **BEVERLY:** "Thirty-eight years ago, I started on a kitchen chair."
   *(VN) Ba mươi tám năm trước, tôi khởi nghiệp trên một cái ghế bếp.*
+- **BEVERLY:** "A lady loaned me two hundred dollars. Never paid her back."
+  *(VN) Một bà đã cho tôi vay hai trăm đô. Tôi chưa bao giờ trả lại được.*
+- Ở hàng đầu, bà Earnestine khẽ chỉnh lại chiếc mũ fascinator, mặt không đổi.
 - **BEVERLY:** "Tonight I keep two promises. Bianca Pierce, come up."
   *(VN) Tối nay tôi giữ hai lời hứa. Bianca Pierce, lên đây.*
 - Bianca lướt lên sân khấu, Darius đi sau. Charlene vỗ tay to nhất phòng. Ayanna đứng yên dưới chân sân khấu.
