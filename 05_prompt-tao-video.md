@@ -562,6 +562,19 @@ Use the attached image as the identity reference. Keep exactly the same woman: t
 - **Soát trước khi chốt:** ☐ cùng khuôn mặt với ảnh chốt · ☐ khe răng cửa và nốt ruồi gò má TRÁI vẫn thấy · ☐ khăn giấu hết tóc · ☐ cardigan thiếu một khuy · ☐ gậy quấn băng keo đen ở tay cầm
 - **Đánh giá & quyết định:**
 
+## Bộ ảnh tham chiếu sản xuất (khuôn phim cũ — 30/10/2026)
+
+> Tác giả chốt tạo hình: Beverly `NV-BEV-03`, Ayanna `NV-AYA-03` (giữ da mật ong-caramel), Darius `NV-DAR-04`, Bianca `NV-BIA-04` (giữ thân hình như tác giả yêu cầu), Earnestine `NV-EAR-03`; yêu cầu tạo toàn bộ nhân vật, bảng bối cảnh 4 góc và đạo cụ **theo khuôn các dự án trước** (BROKE ON PURPOSE, THE LOCKET, MOTHER OF THE GROOM).
+
+- **Dự án ảnh:** `09_media/xuong/` — `du_an.json` (mô tả nhân vật theo cú pháp da của `06_tao_hinh_black_america.md`, 34 mã trang phục + 3 vai phụ nhỏ, 8 bảng 4 góc khai 4 tường, 21 đạo cụ). Ảnh ở `09_media/xuong/anh/`, bản gốc cổng trả ở `anh/_goc_ai/`.
+- **Công cụ:** `scripts/tao_anh.py` của skill viết kịch bản (gói `xuong_anh`), gọi cổng Xưởng Phim Bigup 1.0.23, model mặc định gpt-image-2.5, 2 luồng, hậu kỳ `--bot-ai nhe`. Prompt từng ảnh do script dựng từ `du_an.json` theo khuôn cũ (mặt 1024x1536 → ảnh đồ → bảng nhân vật 2 ô 1920x1080 → bảng 4 góc 1920x1080 tự cắt 4 panel → đạo cụ); xem lại bằng `tao_anh.py --du-an 09_media/xuong anh --thu`.
+- **Mã lần thử = tên file ảnh** (vd `OUTFIT_BV0`, `SHEET_AYANNA_AY1`, `VELOUR_BANG` → `VELOUR_DESK`, `PROP_WIG`). Ảnh mặt 5 vai chính chép từ ảnh đã chốt (`CHAR_BIANCA_FACE` cắt phần đầu-vai từ `NV-BIA-04`).
+- **Đợt 1:** mặt 8 vai phụ + 34 ảnh đồ + 8 bảng 4 góc + 2 ngoại cảnh + 21 đạo cụ. **Đợt 2** (sau khi soát, lật ngang ảnh ngược bên): 36 bảng nhân vật 2 ô.
+- **Kết quả (30/10/2026):** đợt 1 tạo 72/72 ảnh (8 mặt vai phụ, 34 ảnh đồ, 8 bảng 4 góc tự cắt 32 panel, 2 ngoại cảnh, 21 đạo cụ); đợt 2 tạo 36/36 bảng nhân vật 2 ô. `SHEET_CHARLENE_CH2C` (còng tay) bị chặn kiểm duyệt 2 lần, lần 3 qua.
+- **Sửa lại:** `PROP_NOTICE` ra ảnh ghép nhiều cảnh, `LOC_VELOUR_BOARDWALK` ra biệt thự → viết prompt riêng ở `anh/_prompt_rieng.json`, tạo lại 1 lần, đạt.
+- **Claude soát (gợi ý, tác giả quyết):** các bảng đều nằm ngang, mặt ô cận khớp ô toàn thân; Darius giữ kính + râu, Ayanna đúng Fulani braids cài hạt, Bianca giữ dáng đồng hồ cát. Cần tác giả xem kỹ: mặt Beverly ở ô cận hơi già và gầy hơn ảnh chốt `NV-BEV-03`; váy BI5 cúp ngực và BI1 váy ngắn có thể vướng kiểm duyệt khi gen video; ô cận mặt theo khuôn cũ để cổ trần (không áo).
+- **Đánh giá & quyết định của tác giả:**
+
 ## Cảnh 1 — [tên cảnh]
 
 ### C01-01
