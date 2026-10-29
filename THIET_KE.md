@@ -111,55 +111,57 @@ Phút 3:45 Latasha bị đuổi · 4:15 Ayanna lên quản lý · 5:00 Ayanna "I
 - Dạ tiệc ở một khách sạn ven sông National Harbor.
 - Tên khu là thật; tên salon, công ty, khách sạn, giải chạy ("Harbor 5K") đều hư cấu.
 
-**Dấu hiệu người trong cuộc:** "Big Mama"; bữa tối Chủ nhật sau lễ nhà thờ mang **bánh khoai lang** (không phải bánh bí ngô); đòi lại đĩa bánh ("You brought my dish back? Your mama raised you right."); mũ nhà thờ rộng vành; "Yes, ma'am"; "Bless your heart" kiểu miền Nam; slang DC "bama" (đúng một lần, miệng Tamia); "snatched me bald"; hộp bánh quy thiếc đựng giấy tờ trên nóc tủ lạnh; ghế bếp đặt giữa phòng khách làm ghế tết tóc; bonnet satin ở nhà; quạt giấy nhà thờ; mẹ nuôi cháu, cháu làm CNA ca sáng và tết tóc buổi tối. Không TV, radio, nhạc có lời, tên bài hát, tên hãng.
+**Dấu hiệu người trong cuộc:** "Big Mama"; bữa tối Chủ nhật sau lễ nhà thờ mang **bánh khoai lang** (không phải bánh bí ngô); đòi lại đĩa bánh (trả đĩa không để rỗng: "From the store. But you didn't bring it back empty." — "Your mama raised you right."); mũ nhà thờ rộng vành; "Yes, ma'am"; "Bless your heart" kiểu miền Nam; slang DC "bama" (đúng một lần, miệng Tamia); "snatched me bald"; hộp bánh quy thiếc đựng giấy tờ trên nóc tủ lạnh; ghế bếp đặt giữa phòng khách làm ghế tết tóc; bonnet satin ở nhà; quạt giấy nhà thờ; mẹ nuôi cháu, cháu làm CNA ca sáng và tết tóc buổi tối. Không TV, radio, nhạc có lời, tên bài hát, tên hãng.
 
 ---
 
 ## 3. Nhân vật
 
+> **Ảnh thắng chữ (30/10/2026):** tạo hình dưới đây đã sửa theo bộ ảnh tham chiếu tác giả duyệt ở `09_media/xuong/anh/` (dự án ảnh `09_media/xuong/du_an.json`, tạo bằng `tao_anh.py` theo khuôn phim cũ). Mỗi mã trang phục có bảng nhân vật 2 ô `SHEET_<TÊN>_<MÃ>` (ô trái cận mặt cổ trần, ô phải toàn thân).
+
 Tên đã đối chiếu `_nguon`/`kich_ban.md` của mọi phim cũ trong `phim\` (không trùng Vivian, Deja, Brielle, Otis, Kendra, Brooks, Whitfield, Reginald…). Nhận diện bất biến nhắc trong mọi shot cận / trung của người đó.
 
 | Mã | Vai | Nhận diện bất biến | Giọng (VOICE LOCK) |
 |---|---|---|---|
-| **BEVERLY** | **Beverly Thornton**, 64 — sáng lập & CEO Rosewood Hair Company; goá chồng; thông minh, khô, hài ngầm, thử lòng người | Da nâu sâu (Monk 8) ánh đồng; **tóc sisterlocks bạc dài ngang vai**; **khe hở nhỏ giữa hai răng cửa** khi cười; **nốt ruồi nhỏ trên gò má trái** | Contralto ấm, chậm, mềm bên ngoài cứng bên trong; không bao giờ cao giọng |
-| **AYANNA** | **Ayanna Ellis**, 29 — CNA ca sáng ở viện dưỡng lão + thợ tết tóc ghế số 4 ở Velour; để dành mở tiệm tết tóc riêng; nhẫn nhịn nhưng có xương sống, nói thẳng, không nhận tiền bố thí | Da nâu (Monk 7) ánh vàng ấm; **bím knotless dài tới eo, nâu sẫm, đuôi màu mật ong**; **lúm đồng tiền sâu ở má PHẢI**; **khuyên mũi vàng nhỏ bên phải**; **hình xăm nét nhịp tim ở mặt trong cổ tay TRÁI** | Alto trong, điềm tĩnh, càng giận càng nói chậm; giọng vùng DMV nhẹ |
-| **DARIUS** | **Darius Thornton**, 34 — con trai Beverly, COO Rosewood, sắp lên CEO; hai năm trước ngừng tim ở giải Harbor 5K; tử tế, trung thành tới mức cả tin | Da nâu sâu (Monk 8); cao 1m90 vai rộng; **tóc fade thấp, xoắn ngắn trên đỉnh**; **râu quai nón đầy tỉa gọn**; **vết sẹo mảnh xuyên lông mày TRÁI**; đồng hồ bạc mặt tròn tay trái | Baritone trầm, nói ít, chậm |
-| **BIANCA** | **Bianca Pierce**, 30 — influencer tóc & phong cách sống 2,1 triệu người theo dõi; nổi tiếng nhờ clip "tôi làm CPR cứu người yêu"; khách VIP của Velour | Da nâu sáng (Monk 5); **tóc body wave màu vàng mật dài tới eo rẽ ngôi giữa**; mi giả dày; son nude bóng; **móng hạnh nhân dài màu bạc chrome** | Mezzo ngọt khi có máy quay, rít và nhanh khi không |
-| **CHARLENE** | **Charlene Pierce**, 56 — mẹ Bianca, tự xưng "nhà đầu tư bất động sản", thật ra nợ một tay cho vay ở Suitland; đầu não phía ác | Da nâu (Monk 6); **tóc pixie nhuộm đỏ đồng**; **hoa tai vòng vàng to**; kính râm cài trên đầu; móng đỏ | Khàn, nhanh, gọi ai cũng "honey/sweetheart" |
-| **TAMIA** | **Tamia**, 26 — trợ lý quay phim của Bianca, cầm điện thoại gắn gimbal; bị coi như đồ vật; phản chủ ở cụm 54 | Da nâu sâu (Monk 8); **tóc tự nhiên cắt sát (TWA) nhuộm đồng cam**; **kính gọng trong to tròn** | Giọng DC trẻ, nhanh, hay chêm |
-| **LATASHA** | **Latasha Greene**, 46 — quản lý Velour, em họ Charlene; xoá camera giúp Bianca; bị đuổi; quay lại nói sự thật | Da nâu (Monk 7); **tóc pixie nâu mật**; **bút chì cài tai**; dây đeo thẻ | Nói nhanh, hay chữa thẹn |
-| **NADINE** | **Nadine Cole**, 51 — chánh văn phòng của Beverly 20 năm; khô, sắc, hài ngầm | Da nâu sâu (Monk 8); **tóc tự nhiên cắt ngắn muối tiêu**; **kính gọng vuông đen bản to**; luôn cầm máy tính bảng | Rõ, gọn, không cảm xúc |
-| **EARNESTINE** | **Earnestine Ellis "Big Mama"**, 77 — bà nội nuôi Ayanna; về hưu sau 32 năm làm nhân viên bưu điện; "mother" của nhà thờ Baptist; năm 1988 tết tóc trên ghế bếp ở Seat Pleasant | Da nâu rất sâu (Monk 9); **tóc xoăn ngắn bạc trắng**; **kính mắt mèo gọng vàng**; **dây chuyền thánh giá vàng mảnh** | Khàn ấm, chậm, hài, câu nào cũng như đóng dấu |
-| **IMES** (PHU+) | **Thám tử Leon Imes**, 48 — cảnh sát quận Prince George's, tội phạm tài chính; công bằng, khô | Da nâu (Monk 7); **đầu cạo**, **ria mép tỉa gọn**; phù hiệu vàng kẹp thắt lưng, không thấy vũ khí | Trầm, đều, không phán xét |
-| WOMAN (PHU) | Khách nữ ~50 ở cụm 37 | áo khoác hồng, túi xách | — |
-| OFFICER (PHU) | Cảnh sát mặc đồng phục, cụm 64–66 | đồng phục navy, phù hiệu bạc, không súng | không thoại |
-| LOCKSMITH (PHU) | Thợ khoá, cụm 49 | áo đồng phục xám, hộp đồ nghề | không thoại |
+| **BEVERLY** | **Beverly Thornton**, 64 — sáng lập & CEO Rosewood Hair Company; goá chồng; thông minh, khô, hài ngầm, thử lòng người | Da nâu sâu (Monk 8) ánh đồng; mặt góc cạnh, trán cao, cổ dài, **tàn nhang sẫm trên gò má**; **sisterlocks bạc rất mảnh vấn thành vương miện cao, cài MỘT khoen vàng trên một lọn ở thái dương**; **khe hở nhỏ giữa hai răng cửa**; **nốt ruồi nhỏ trên gò má TRÁI**; khuyên tai đồng điêu khắc · ảnh `CHAR_BEVERLY_FACE` | Contralto ấm, chậm, mềm bên ngoài cứng bên trong; không bao giờ cao giọng |
+| **AYANNA** | **Ayanna Ellis**, 29 — CNA ca sáng ở viện dưỡng lão + thợ tết tóc ghế số 4 ở Velour; để dành mở tiệm tết tóc riêng; nhẫn nhịn nhưng có xương sống, nói thẳng, không nhận tiền bố thí | Da mật ong-caramel ánh vàng, **tàn nhang nhẹ trên mũi và má**; nụ cười hơi lệch; **tóc tết Fulani** (một đường cornrow giữa đỉnh, hai bên cornrow vòng quanh tai, phần còn lại bím vừa qua vai, cài khoen vàng và hạt gỗ); **lúm đồng tiền má PHẢI**; **khuyên mũi vàng nhỏ bên phải**; **hình xăm nét nhịp tim mặt trong cổ tay TRÁI** · ảnh `CHAR_AYANNA_FACE` | Alto trong, điềm tĩnh, càng giận càng nói chậm; giọng vùng DMV nhẹ |
+| **DARIUS** | **Darius Thornton**, 34 — con trai Beverly, COO Rosewood, sắp lên CEO; hai năm trước ngừng tim ở giải Harbor 5K; tử tế, trung thành tới mức cả tin | Da nâu sâu (Monk 8), trông trẻ ~31; cao vai rộng, dáng người chạy bộ; **kính tròn gọng vàng mảnh**; **tóc 360 waves cắt sát, lineup sắc**; **râu ngắn đen tỉa gọn**; sống mũi hơi gồ; **vết sẹo mảnh xuyên lông mày TRÁI**; đồng hồ bạc mặt tròn tay trái · ảnh `CHAR_DARIUS_FACE` | Baritone trầm, nói ít, chậm |
+| **BIANCA** | **Bianca Pierce**, 30 — influencer tóc & phong cách sống 2,1 triệu người theo dõi; nổi tiếng nhờ clip "tôi làm CPR cứu người yêu"; khách VIP của Velour | Da nâu vàng sáng (Monk 5); mặt nhỏ như búp bê, cằm nhọn, mắt mèo; **nốt ruồi duyên trên khoé môi trái**; son nâu anh đào bóng, mi giả dày; **tóc vàng mật thẳng dài tới eo, mái bằng dày ngang lông mày**; **móng hạnh nhân dài bạc chrome**; **dáng đồng hồ cát đầy đặn** (theo yêu cầu tác giả) · ảnh `CHAR_BIANCA_FACE` (cắt từ `NV-BIA-04`) | Mezzo ngọt khi có máy quay, rít và nhanh khi không |
+| **CHARLENE** | **Charlene Pierce**, 56 — mẹ Bianca, tự xưng "nhà đầu tư bất động sản", thật ra nợ một tay cho vay ở Suitland; đầu não phía ác | Da nâu mật ong ánh đỏ; **người đầy đặn**, mặt tròn, cằm đôi; lông mày kẻ mảnh cong, nốt ruồi má phải, son đỏ; **tóc ngắn nhuộm đỏ đồng, cạo một bên kẻ vạch**; **kính phi công tròng hồng cài trên đầu**; **hoa tai vòng vàng to, vòng tay vàng xếp chồng**; móng đỏ · ảnh `CHAR_CHARLENE_FACE` | Khàn, nhanh, gọi ai cũng "honey/sweetheart" |
+| **TAMIA** | **Tamia**, 26 — trợ lý quay phim của Bianca, cầm điện thoại gắn gimbal; bị coi như đồ vật; phản chủ ở cụm 54 | Da nâu sâu (Monk 8); nhỏ, gầy; **tóc xoăn tự nhiên cắt sát nhuộm đồng cam**; **kính gọng trong to tròn**; **khuyên vách mũi bạc**, sẹo nhỏ ở cằm; **tai nghe chụp tai đen đeo cổ**; không trang điểm · ảnh `CHAR_TAMIA_FACE` | Giọng DC trẻ, nhanh, hay chêm |
+| **LATASHA** | **Latasha Greene**, 46 — quản lý Velour, em họ Charlene; xoá camera giúp Bianca; bị đuổi; quay lại nói sự thật | Da nâu hạt dẻ (Monk 7); mềm, hơi tròn; mặt tròn, nụ cười gượng hơi hô; **tóc pixie nâu mật, kính đọc cài trên tóc**; **bút chì vàng cài tai phải**; dây đeo thẻ trống · ảnh `CHAR_LATASHA_FACE` | Nói nhanh, hay chữa thẹn |
+| **NADINE** | **Nadine Cole**, 51 — chánh văn phòng của Beverly 20 năm; khô, sắc, hài ngầm | Da nâu sâu (Monk 8); cao gầy, mặt dài góc cạnh; **tóc húi cua muối tiêu kẻ vạch ngôi**; **kính gọng vuông đen bản to**; **khuyên bạc nhỏ ở vành tai trái**; luôn cầm máy tính bảng · ảnh `CHAR_NADINE_FACE` | Rõ, gọn, không cảm xúc |
+| **EARNESTINE** | **Earnestine Ellis "Big Mama"**, 77 — bà nội nuôi Ayanna; về hưu sau 32 năm làm nhân viên bưu điện; "mother" của nhà thờ Baptist; năm 1988 tết tóc trên ghế bếp ở Seat Pleasant | Da nâu rất sâu (Monk 9), đồi mồi, nếp cười sâu; nhỏ người, thẳng lưng, mặt dài; **tóc bạc ép uốn sóng kiểu xưa (finger waves)**; **kính mắt mèo gọng vàng có dây hạt**; **một răng bên bọc vàng khi cười**; **dây chuyền thánh giá vàng mảnh** · ảnh `CHAR_EARNESTINE_FACE` | Khàn ấm, chậm, hài, câu nào cũng như đóng dấu |
+| **IMES** (PHU+) | **Thám tử Leon Imes**, 48 — cảnh sát quận Prince George's, tội phạm tài chính; công bằng, khô | Da nâu hạt dẻ (Monk 7); cao to; **đầu cạo bóng**; **ria mép chữ V muối tiêu**; **khuyên vàng nhỏ ở tai trái**; mắt sâu mệt nhưng hiền; phù hiệu vàng kẹp thắt lưng, không thấy vũ khí · ảnh `CHAR_IMES_FACE` | Trầm, đều, không phán xét |
+| DRIVER (PHU) | Tài xế của Beverly, cụm 3 (có 1 câu thoại) | da nâu sâu, ~50, tóc ngắn điểm bạc lineup gọn, râu dê muối tiêu; vest đen · ảnh `SHEET_DRIVER_DR1` | trầm, lịch sự |
+| OFFICER (PHU) | Cảnh sát mặc đồng phục, cụm 64–66 | ~32, hàm vuông, fade thấp; đồng phục navy, phù hiệu bạc, không súng · ảnh `SHEET_OFFICER_OF1` | không thoại |
+| LOCKSMITH (PHU) | Thợ khoá, cụm 49 | ~45, chắc nịch, râu muối tiêu, mũ len xám; đồng phục xám, hộp đồ nghề · ảnh `SHEET_LOCKSMITH_LK1` | không thoại |
 
 ### 3.1 Trang phục (tầng 0–4, `doc_ra` = khán giả phải đọc ra)
 
 | Mã | Tầng | Mô tả | Khán giả phải đọc ra |
 |---|---|---|---|
 | **BV0** | 0 | Khăn trùm đầu vải ô liu bạc màu buộc dưới cằm (giấu hết tóc), kính gọng nhựa nâu dày trầy xước, cardigan nâu quá khổ xù lông ở khuỷu và **thiếu một khuy**, váy mặc nhà hoa bạc màu dài qua bắp chân, tất dày màu be, giày chỉnh hình đen mòn mũi, túi nilon trắng nhàu, **gậy gỗ quấn băng keo đen ở tay cầm**; không trang điểm, không trang sức, không gì trông mới | một bà cụ nghèo đi lạc vào salon sang |
-| BV1 | 4 | Cardigan cashmere kem dáng choàng ngoài áo lụa tím mận, quần ống rộng kem, locs bạc búi thấp, hoa tai kim cương nhỏ, kính đọc đeo dây hạt | bà chủ thật ở nhà |
+| BV1 | 4 | Cardigan cashmere kem dáng choàng ngoài áo lụa tím mận, quần ống rộng kem, locs bạc vấn vương miện cao, hoa tai kim cương nhỏ, kính đọc đeo dây hạt | bà chủ thật ở nhà |
 | BV2 | 4 | Vest quần xám than may đo, áo lụa xanh ngọc lục bảo, vòng tay vàng bản to | CEO trong ngày khủng hoảng |
 | BV3 | 4 | Đầm satin xanh nửa đêm dáng cột, cape ngắn đính hạt bạc ở vai, locs bạc vấn vương miện, hoa tai giọt sapphire | nữ hoàng của dạ tiệc |
-| **AY1** | 1 | Tạp dề thợ tóc đen nhiều túi (không chữ) ngoài áo thun đen trơn, jean đen lưng cao, giày thể thao trắng sờn, bím búi cao buộc dây satin đen, lược đuôi chuột cài sau búi | thợ tóc làm công |
+| **AY1** | 1 | Tạp dề thợ tóc đen nhiều túi (không chữ) ngoài áo thun đen trơn, jean đen lưng cao, giày thể thao trắng sờn, tóc tết Fulani búi cao buộc ruy băng satin đen, lược đuôi chuột cài sau búi | thợ tóc làm công |
 | AY1M | 1 | AY1 + thẻ quản lý đeo dây ở cổ | thợ tóc vừa lên quản lý |
-| AY2 | 1 | Scrubs xanh nhạt, thẻ nhân viên cuộn dây ở thắt lưng, giày thể thao trắng, bím buộc đuôi ngựa thấp, túi vải đeo vai | CNA đi ca sáng |
-| AY3 | 2 | Đầm wrap vàng mù tạt dài qua gối, hoa tai vòng vàng nhỏ, giày cao gót vuông nâu, bím xoã | đồ đi lễ Chủ nhật |
-| AY4 | 1 | Hoodie xám trơn, legging đen, dép lê, bím buộc thấp | ở nhà |
-| AY5 | 2 | Jumpsuit đen tay dài cổ tròn, đai da đeo hông có túi đựng lược và kẹp, giày bệt đen, bím vấn vương miện | thợ làm tóc đang làm việc ở dạ tiệc |
+| AY2 | 1 | Scrubs xanh nhạt, thẻ nhân viên cuộn dây ở thắt lưng, giày thể thao trắng, tóc tết Fulani buộc đuôi ngựa thấp, túi vải đeo vai | CNA đi ca sáng |
+| AY3 | 2 | Đầm wrap vàng mù tạt dài qua gối, hoa tai vòng vàng nhỏ, giày cao gót vuông nâu, tóc tết Fulani xoã qua vai | đồ đi lễ Chủ nhật |
+| AY4 | 1 | Hoodie xám trơn, legging đen, dép lê, tóc tết Fulani buộc thấp | ở nhà |
+| AY5 | 2 | Jumpsuit đen tay dài cổ tròn, đai da đeo hông có túi đựng lược và kẹp, giày bệt đen, tóc tết Fulani vấn vương miện | thợ làm tóc đang làm việc ở dạ tiệc |
 | DA1 | 3 | Áo quarter-zip navy ngoài áo thun trắng, quần kaki xám, giày lười da nâu | con nhà giàu đi làm |
 | DA2 | 3 | Blazer len màu lạc đà, áo len cổ lọ đen, quần đen | bữa tối Chủ nhật |
 | DA3 | 4 | Tuxedo đen, nơ đen, khăn cài túi trắng | dạ tiệc |
-| BI1 | 3 | Váy bodycon gân kem dài qua gối, blazer kem quá khổ khoác vai, dây chuyền vàng bản to, giày mũi nhọn trắng, túi xách da trắng | phông bạt, khách VIP |
+| BI1 | 3 | Váy bodycon dệt kim gân kem cổ cao tay dài, ngắn trên gối, ôm sát dáng đồng hồ cát; blazer kem quá khổ khoác vai, dây chuyền vàng mảnh, giày mũi nhọn trắng, túi xách da trắng | phông bạt, khách VIP |
 | BI2 | 2 | Hoodie xám quá khổ, legging đen, giày thể thao trắng, tóc buộc rối, mặt mộc | "nạn nhân" đến khóc |
 | BI3 | 3 | Đầm satin tím lilac tay phồng dài qua gối, giày quai mảnh bạc | cô dâu tương lai ra mắt |
 | BI6 | 3 | Đầm blazer trắng cài khuy vàng, giày cao gót nude | đến ăn tối thứ Hai |
-| BI4 | 2 | Áo len kem quá khổ, tóc xoã, không trang điểm | livestream đáng thương |
+| BI4 | 2 | Áo len kem quá khổ, quần jean xanh nhạt, tóc xoã, không trang điểm | livestream đáng thương |
 | BI5 | 3 | Đầm đuôi cá sequin bạc trễ vai, nhẫn đính hôn | tưởng mình là nữ hoàng đêm nay |
 | BI5C | 3 | BI5, hai tay còng bạc ra sau, có cảnh sát giữ khuỷu tay | sa cơ |
-| CH1 | 3 | Áo wrap hoạ tiết da báo, quần ống rộng đen, giày cao gót đen, hoa tai vòng vàng to | phông bạt |
+| CH1 | 3 | Áo wrap hoạ tiết da báo cổ kín, quần ống rộng đen, giày cao gót đen, hoa tai vòng vàng to | phông bạt |
 | CH2 / CH2C | 3 | Đầm sequin đỏ dài + khăn choàng lông giả trắng / CH2 còng tay ra sau | phông bạt dạ tiệc / sa cơ |
 | TA1 | 1 | Hoodie xám quá khổ, quần đạp xe đen, giày thể thao hầm hố, điện thoại gắn gimbal | trợ lý quay phim |
 | TA2 | 1 | Váy slip đen, áo khoác jean, điện thoại gắn gimbal | trợ lý đi làm ở dạ tiệc |
@@ -171,6 +173,9 @@ Tên đã đối chiếu `_nguon`/`kich_ban.md` của mọi phim cũ trong `phim
 | EA2 | 2 | Vest váy xanh hoàng gia, **mũ nhà thờ rộng vành cùng màu cắm lông vũ**, găng trắng ngắn | đi lễ Chủ nhật |
 | EA3 | 2 | Bộ hai mảnh ren màu sâm panh, mũ nhỏ fascinator cùng màu, ví cầm tay | bà đi dạ tiệc |
 | IM1 | 2 | Vest xám, sơ mi trắng, phù hiệu vàng kẹp thắt lưng, sổ tay nhỏ | thám tử |
+| DR1 | 2 | Vest đen, sơ mi trắng, cà vạt đen (tài xế) | tài xế nhà giàu |
+| OF1 | 1 | Đồng phục cảnh sát navy, phù hiệu bạc không chữ, thắt lưng không súng | cảnh sát |
+| LK1 | 1 | Đồng phục xám không chữ, ủng đen, hộp đồ nghề đen, mũ len xám | thợ khoá |
 
 ---
 
@@ -185,9 +190,26 @@ Tên đã đối chiếu `_nguon`/`kich_ban.md` của mọi phim cũ trong `phim
 | **BIANCA_CONDO** | Căn hộ thuê tầng cao ở National Harbor · tầng 3 phông bạt | sofa bouclé trắng · hai đèn vòng + tường hoa hồng giả làm phông quay · thùng hàng PR chất góc · cửa kính nhìn ra sông và vòng đu quay lớn | không người nền · tiếng thành phố xa |
 | **GALA** | Phòng tiệc khách sạn ven sông National Harbor | `GALA_STAGE` sân khấu thấp + màn hình LED lớn · `GALA_FLOOR` ~120 khách da đen ăn mặc dạ tiệc ĐỨNG quanh bàn tròn khăn trắng có hoa mộc lan, không ai ăn uống · `GALA_DOORS` cửa đôi phía sau · `GALA_SIDE` cửa bên trái + bàn điều khiển màn hình. `GALA_BACKSTAGE` phòng thay đồ: gương viền bóng đèn tròn, bàn trang điểm, giá treo váy, cửa ra hành lang | tiếng người xì xào nhỏ, không nhạc, không micro / bục phát biểu (Beverly nói không cần micro) |
 
+### 4.1 Bảng 4 góc đã tạo (ảnh thắng chữ — 30/10/2026)
+
+Mỗi bảng vẽ một lượt rồi cắt 4 panel (`09_media/xuong/anh/`); panel theo thứ tự trên-trái, trên-phải, dưới-trái, dưới-phải:
+
+| Bảng | Panel |
+|---|---|
+| `VELOUR_BANG` | `VELOUR_FRONT` · `VELOUR_DESK` · `VELOUR_BOWLS` · `VELOUR_STATIONS` |
+| `THORNTON_FOYER_BANG` | `THORNTON_FOYER` (cửa đôi) · `THORNTON_FOYER_STAIRS` · `THORNTON_FOYER_CONSOLE` · `THORNTON_FOYER_ARCH` |
+| `THORNTON_DINING_BANG` | `THORNTON_DINING` · `THORNTON_DINING_BUFFET` · `THORNTON_DINING_WINDOW` · `THORNTON_DINING_ART` |
+| `ELLIS_LIVING_BANG` | `ELLIS_LIVING` (cửa trước) · `ELLIS_LIVING_SOFA` · `ELLIS_LIVING_KITCHEN` · `ELLIS_LIVING_HATS` |
+| `ELLIS_PORCH_BANG` | `ELLIS_PORCH` (cửa lưới) · `ELLIS_PORCH_GLIDER` · `ELLIS_PORCH_STREET` · `ELLIS_PORCH_AZALEA` |
+| `BIANCA_CONDO_BANG` | `BIANCA_CONDO` (sofa) · `BIANCA_CONDO_LIGHTS` · `BIANCA_CONDO_BOXES` · `BIANCA_CONDO_WINDOW` |
+| `GALA_BANG` | `GALA_STAGE` · `GALA_FLOOR` · `GALA_DOORS` · `GALA_SIDE` |
+| `GALA_BACKSTAGE_BANG` | `GALA_BACKSTAGE` (gương bóng đèn) · `GALA_BACKSTAGE_RACK` · `GALA_BACKSTAGE_DOOR` · `GALA_BACKSTAGE_BENCH` |
+
+Ảnh đơn: `LOC_VELOUR_BOARDWALK` (lối gỗ ven sông trước salon, SUV đen), `LOC_THORNTON_STEPS` (bậc thềm, cột trắng, lối xe vòng). Chú ý: bàn console trong ảnh không có quạt giấy nhà thờ nổi bật; phòng ăn có đồng hồ treo tường và ảnh cưới trên tủ búp phê.
+
 ## 5. Đạo cụ
 
-`PROP_WIG` bộ tóc giả vàng mật 30 inch · `PROP_CANE` gậy gỗ quấn băng keo · `PROP_FLIP_PHONE` điện thoại nắp gập cũ của Beverly · `PROP_OJ` chai nước cam · `PROP_CHECK` tờ séc cá nhân viết tay · `PROP_JAR` hũ kem Rosewood in chân dung · `PROP_JAR_1988` hũ đầu tiên trong lồng kính · `PROP_TRIPOD_PHONE` điện thoại Ayanna trên giá ba chân + đèn vòng · `PROP_PIE_DISH` đĩa thuỷ tinh bánh khoai lang · `PROP_FOLDER` tập hồ sơ thuế · `PROP_RING` nhẫn đính hôn · `PROP_SONOGRAM` ảnh siêu âm đen trắng · `PROP_NOTICE` tờ thông báo dán cửa · `PROP_PHOTO_1988` ảnh cũ hai phụ nữ trên ghế bếp · `PROP_BIG_CHECK` tấm séc lớn trên sân khấu · `PROP_KEYS` chùm chìa khoá mới · `PROP_LAPTOP` · `PROP_TABLET` (Nadine) · `PROP_GIMBAL_PHONE` (Tamia) · `PROP_CUFFS` còng bạc.
+`PROP_WIG` bộ tóc giả vàng mật 30 inch · `PROP_CANE` gậy gỗ quấn băng keo · `PROP_FLIP_PHONE` điện thoại nắp gập cũ của Beverly · `PROP_OJ` chai nước cam · `PROP_CHECK` tờ séc cá nhân viết tay · `PROP_JAR` hũ kem Rosewood in chân dung · `PROP_JAR_1988` hũ đầu tiên trong lồng kính · `PROP_TRIPOD_PHONE` điện thoại Ayanna trên giá ba chân + đèn vòng · `PROP_PIE_DISH` đĩa thuỷ tinh bánh khoai lang · `PROP_FOLDER` tập hồ sơ thuế · `PROP_RING` nhẫn đính hôn · `PROP_SONOGRAM` ảnh siêu âm đen trắng · `PROP_NOTICE` tờ thông báo dán cửa · `PROP_PHOTO_1988` ảnh cũ hai phụ nữ trên ghế bếp · `PROP_BIG_CHECK` tấm séc lớn trên sân khấu · `PROP_KEYS` chùm chìa khoá mới · `PROP_LAPTOP` · `PROP_TABLET` (Nadine) · `PROP_GIMBAL_PHONE` (Tamia) · `PROP_CUFFS` còng bạc · `PROP_CARDS` xấp danh thiếp đặt lịch hồng (cụm 37). Ảnh: `09_media/xuong/anh/PROP_*.png`.
 
 Mọi màn hình / giấy tờ / livestream / video / sao kê = INSERT, chữ và hình **ghép lúc dựng**. Không chữ đọc được trên đồ vật.
 
@@ -211,8 +233,8 @@ Mọi màn hình / giấy tờ / livestream / video / sao kê = INSERT, chữ v�
 | 12 · PLAN B | 34–36 | 16:30–18:00 | M5 ngọt hơn · S10 ngược (midpoint) | Bianca lật lên bằng livestream | 9 | Hai triệu người xem |
 | 13 · TWO MILLION | 37–39 | 18:00–19:30 | M6 · S11 | Charlene tống tiền; Beverly "Done." | 7 | Vì sao Beverly đồng ý? |
 | 14 · TWO BABIES | 40–42 | 19:30–21:00 | S13 · S7 đặt bẫy | Phe thiện nắm bài | 7 | Tiền cọc sẽ đi đâu |
-| 15 · BIG MAMA'S HOUSE | 43–45 | 21:00–22:30 | Leo thang gia đình · M5 | Charlene nắm nhà bà Earnestine | 8 | "Get her to say it. Out loud." |
-| 16 · INSURANCE | 46–48 | 22:30–24:00 | Đổi phe (anti-fatigue 5) · S4 | Latasha sang phe thiện | 7 | Thứ Bảy |
+| 15 · BIG MAMA'S HOUSE | 43–45 | 21:00–22:30 | Leo thang gia đình · M5 | Charlene nắm nhà bà Earnestine | 8 | Charlene gọi thợ khoá: "Saturday. Noon sharp." |
+| 16 · INSURANCE | 46–48 | 22:30–24:00 | Đổi phe (anti-fatigue 5) · S4 | Latasha sang phe thiện | 7 | Charlene bắt gặp Latasha rời salon |
 | 17 · LOCKED OUT | 49–51 | 24:00–25:30 | M2 im lặng · đáy vực | Bà Earnestine bị khoá ngoài nhà | 9 | Bianca bước vào phòng thay đồ |
 | 18 · FURNITURE WITH A PHONE | 52–54 | 25:30–27:00 | S7 để kẻ ác tự đi | Bianca tưởng thắng; Tamia không tắt live | 8 | "Is there a baby?" |
 | 19 · THAT'S THE BABY | 55–57 | 27:00–28:30 | False victory · S8 dựng sân khấu | Bianca đỉnh cao, bút chạm séc | 9 | Màn hình LED sáng |
@@ -233,7 +255,7 @@ Mọi màn hình / giấy tờ / livestream / video / sao kê = INSERT, chữ v�
 4. Màn hình, livestream, sao kê, ảnh siêu âm, video LED = INSERT ghép lúc dựng; âm thanh phát từ thiết bị (ghi âm, cuộc gọi 911) ghép lúc dựng.
 5. Người nền luôn là người da đen, có số lượng, im lặng; tiệc thì đứng, không ai ăn uống (G8).
 6. Không "kill / sell / sold / buy / bought / sale / hell / damn / insane / boy / hit / died"; không từ bạo lực trong thoại. "Xoá camera" viết "wiped". Tránh cả chữ dễ làm Seedance lỗi: "hold" (khung đứng hình), "frozen", "you're fired" (kiểm duyệt đầu ra), "pregnant" đứng cạnh động từ mạnh. Không slur, không tục.
-7. Không cái tát nào cả phim. Hành động vật lý duy nhất: cú gạt chân (chỉ thấy hậu quả ở cụm 1 và trên video ở cụm 46, 58), Bianca hất văng điện thoại (cụm 5), ném nhẫn xuống bàn (cụm 33), còng tay (cụm 64–66). Không ai quỳ cầu xin (Ayanna ngồi xổm chăm người bệnh).
+7. Không cái tát nào cả phim. Hành động vật lý (sửa theo yêu cầu tác giả 29–30/10): cú gạt chân thấy rõ + ném bộ tóc giả ướt + đá văng gậy (cụm 1, và trên video ở cụm 46, 58), ném xấp tiền lẻ (cụm 3), Bianca hất văng điện thoại (cụm 5), làm rơi bánh khoai lang (cụm 19), ném nhẫn xuống bàn (cụm 33), hất xấp danh thiếp (cụm 37), còng tay (cụm 64–66). Không ai quỳ cầu xin (Ayanna ngồi xổm chăm người bệnh). Nên render thử cụm 1 trước vì có cảnh người già bị gạt ngã.
 8. Không nhắc nước mắt / mắt đỏ / má đỏ (A1, A17, G7) — tả cảm xúc bằng hàm, môi, giọng, tay.
 9. Không chữ trên màn hình, không thẻ tên (luật dựng F13); mốc thời gian đi qua thoại và trang phục.
 10. Mỗi cụm 3–6 câu, ≤ 12 từ/câu, ASCII, câu nằm trong giây 1–28.

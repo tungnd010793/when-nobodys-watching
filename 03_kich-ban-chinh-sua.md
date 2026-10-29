@@ -66,6 +66,10 @@ Claude soát độ hấp dẫn, chỉ ra hai đoạn người xem dễ bỏ ngan
 **Chưa áp dụng:** câu tuỳ chọn ở cụm 13 ("I met her twice. In diamonds, not a headscarf!") — tác giả chưa yêu cầu.
 **Cần đồng bộ ở `THIET_KE.md`:** thêm vai DRIVER (cụm 3), bỏ vai WOMAN (cụm 37 không còn), cập nhật luật số 7 (hành động vật lý mới), móc cuối tập 15–16 trong bản đồ nhịp.
 
+## GHI CHÚ LẦN SỬA 3 — KHỚP ẢNH THAM CHIẾU (30/10/2026)
+
+Tác giả duyệt bộ ảnh tham chiếu ở `09_media/xuong/anh/` và yêu cầu sửa kịch bản + `THIET_KE.md` cho khớp (ảnh thắng chữ). Đổi câu tả ngoại hình ở các cụm 1, 3, 13, 16, 19, 25, 26, 49, 50, 61 (Ayanna tóc tết Fulani; Bianca tóc thẳng mái bằng, dáng đồng hồ cát, váy cổ cao tay dài; Beverly locs vấn vương miện cài khoen vàng; Darius kính tròn gọng vàng, 360 waves; Charlene đầy đặn, tóc cạo một bên, kính phi công hồng; Nadine tóc húi cua; Tamia kính tròn, khuyên vách mũi; Imes ria chữ V; Earnestine kính có dây hạt; thợ khoá mũ len). Thoại không đổi. Áp dụng giống hệt cho `04_kich-ban-chinh-thuc.md`.
+
 ---
 
 # WHEN NOBODY'S WATCHING — KỊCH BẢN 70 CỤM (35:00)
@@ -93,7 +97,7 @@ Claude soát độ hấp dẫn, chỉ ra hai đoạn người xem dễ bỏ ngan
 **Nhân vật:** BEVERLY (BV0), BIANCA (BI1), TAMIA (TA1, quay điện thoại, không nói), LATASHA (LA1, không nói), AYANNA (AY1, ở ghế số 4 phía xa, không nói); khoảng 6 khách nữ da đen mặc áo choàng cắt tóc đen + 3 thợ tạp dề đen (nền, im lặng)
 **Chức năng:** móc + đẩy xung đột (hành động mạnh ngay giây đầu) · **Cung bậc:** phẫn nộ · **Vòng:** M4 móc 3 giây đầu · M1 pha 1 (điểm thấp nhất) · S2 đặt thân phận ẩn
 
-- Ngay khung đầu, trung cảnh thấy rõ mặt: dãy bồn gội đá đen của salon Velour. Beverly — khăn trùm đầu ô liu bạc màu buộc dưới cằm, kính nhựa nâu dày, cardigan nâu sờn thiếu một khuy, váy hoa bạc màu — chống cây gậy gỗ quấn băng keo, bước chậm dọc lối đi. Cạnh bồn gội số 2, trên giá đầu tượng là bộ tóc giả vàng mật dài 30 inch. Bianca (váy bodycon kem, blazer kem khoác vai, tóc body wave vàng mật dài tới eo, móng bạc chrome) ngồi ghế bồn gội bên cạnh, lướt điện thoại, duỗi chân chắn ngang lối đi.
+- Ngay khung đầu, trung cảnh thấy rõ mặt: dãy bồn gội đá đen của salon Velour. Beverly — khăn trùm đầu ô liu bạc màu buộc dưới cằm, kính nhựa nâu dày, cardigan nâu sờn thiếu một khuy, váy hoa bạc màu — chống cây gậy gỗ quấn băng keo, bước chậm dọc lối đi. Cạnh bồn gội số 2, trên giá đầu tượng là bộ tóc giả vàng mật dài 30 inch. Bianca (váy bodycon dệt kim kem cổ cao tay dài ôm sát, blazer kem khoác vai, tóc vàng mật thẳng dài tới eo với mái bằng dày, nốt ruồi duyên trên môi, móng hạnh nhân bạc chrome, dáng đồng hồ cát) ngồi ghế bồn gội bên cạnh, lướt điện thoại, duỗi chân chắn ngang lối đi.
 - **BIANCA** (không ngẩng lên): "Move, old lady."
   *(VN) Tránh ra, bà già.*
 - **BEVERLY** (lễ phép, khẽ gật đầu): "Excuse me, baby. I'll go around."
@@ -103,7 +107,7 @@ Claude soát độ hấp dẫn, chỉ ra hai đoạn người xem dễ bỏ ngan
 - **BIANCA:** "That wig cost nine thousand dollars! Broke, old, AND clumsy?"
   *(VN) Bộ tóc đó giá chín nghìn đô! Đã nghèo, đã già, lại còn vụng?*
 - Bianca đá cây gậy văng ra xa một sải tay. Sau lưng cô ta, Tamia giơ điện thoại gắn gimbal quay cận mặt Beverly, cười khẩy. Latasha (quản lý, blazer đen, dây đeo thẻ) khoanh tay đứng nhìn, không làm gì.
-- Ở dãy ghế phía xa, Ayanna (tạp dề thợ tóc đen, bím knotless búi cao) ngẩng phắt lên khỏi mái đầu khách đang tết dở.
+- Ở dãy ghế phía xa, Ayanna (tạp dề thợ tóc đen, tóc tết Fulani cài khoen vàng và hạt gỗ, búi cao buộc ruy băng satin đen) ngẩng phắt lên khỏi mái đầu khách đang tết dở.
 
 **Khung kết:** Beverly ngồi bệt dưới sàn, mớ tóc giả ướt trên vai; Ayanna đặt cây lược xuống.
 **Móc:** Ai dám ra tay giúp bà cụ?
@@ -135,7 +139,7 @@ Claude soát độ hấp dẫn, chỉ ra hai đoạn người xem dễ bỏ ngan
 **Nhân vật:** NADINE (NA1), DRIVER (PHU, tài xế nam da đen ~50, vest đen), BEVERLY (BV0), AYANNA (AY1), BIANCA (BI1), LATASHA (LA1), TAMIA (TA1, không nói); khách + thợ (nền)
 **Chức năng:** lộ thân phận (nói thẳng cho khán giả) + đẩy xung đột (sỉ nhục bằng tiền) + móc · **Cung bậc:** bất công (+ trớ trêu) · **Vòng:** S2 · M6 (kẻ ác khoe với chính người nó đang khinh) · đặt (xấp tiền lẻ → cụm 65)
 
-- CẮT RA NGOÀI: lối đi lát gỗ ven sông trước mặt tiền kính của salon. Nadine (vest navy, kính gọng vuông đen bản to, tóc ngắn muối tiêu) đứng cạnh chiếc SUV đen, nhìn qua lớp kính vào trong; tài xế đứng cạnh cửa xe.
+- CẮT RA NGOÀI: lối đi lát gỗ ven sông trước mặt tiền kính của salon. Nadine (vest navy, kính gọng vuông đen bản to, tóc húi cua muối tiêu kẻ vạch ngôi, khuyên bạc nhỏ ở vành tai trái) đứng cạnh chiếc SUV đen, nhìn qua lớp kính vào trong; tài xế đứng cạnh cửa xe.
 - **NADINE:** "Mrs. Thornton is in there. Dressed like nobody. Her idea."
   *(VN) Bà Thornton đang ở trong đó. Ăn mặc như một kẻ vô danh. Ý của bà ấy.*
 - **DRIVER:** "Why, ma'am?"
@@ -369,7 +373,7 @@ Claude soát độ hấp dẫn, chỉ ra hai đoạn người xem dễ bỏ ngan
 **Nhân vật:** BIANCA (BI1), CHARLENE (CH1), TAMIA (TA1). Tên Beverly chỉ được đọc lên từ tờ séc — người ngoài khung (`bo_qua_biet_danh: ["BEVERLY"]`)
 **Chức năng:** lộ mảnh ghép (**cú ngoặt #2 — phản diện phát hiện sự thật**) · **Cung bậc:** sốc · **Vòng:** R1 · M6
 
-- Ngay khung đầu: căn hộ tầng cao của Bianca — sofa bouclé trắng, hai đèn vòng, tường hoa hồng giả làm phông quay, thùng hàng PR chất trong góc, cửa kính nhìn ra sông. Bianca đi qua đi lại giữa phòng; Charlene (tóc pixie đỏ đồng, hoa tai vòng vàng to, áo da báo) ngồi gác chân trên sofa; Tamia ngồi bệt trên thảm, lục túi xách da trắng của Bianca.
+- Ngay khung đầu: căn hộ tầng cao của Bianca — sofa bouclé trắng, hai đèn vòng, tường hoa hồng giả làm phông quay, thùng hàng PR chất trong góc, cửa kính nhìn ra sông. Bianca đi qua đi lại giữa phòng; Charlene (người đầy đặn, tóc ngắn nhuộm đỏ đồng cạo một bên kẻ vạch, kính phi công tròng hồng cài trên đầu, hoa tai vòng vàng to, vòng tay vàng xếp chồng, áo da báo) ngồi gác chân trên sofa; Tamia ngồi bệt trên thảm, lục túi xách da trắng của Bianca.
 - **BIANCA:** "Some old lady with a flip phone runs Velour now?"
   *(VN) Một bà già cầm điện thoại gập giờ điều khiển cả Velour à?*
 - **CHARLENE:** "Baby, old ladies with flip phones own half this county."
@@ -436,8 +440,8 @@ Claude soát độ hấp dẫn, chỉ ra hai đoạn người xem dễ bỏ ngan
 **Nhân vật:** BEVERLY (BV1), NADINE (NA1), DARIUS (DA1, lúc này mới bước vào qua cửa trước), BIANCA (BI2)
 **Chức năng:** đẩy xung đột (kẻ ác đến trước) · **Cung bậc:** bất công (+ hài khô) · **Vòng:** M6 lật kỳ vọng · S4 đặt (kẻ giả vô tội)
 
-- Sảnh hai tầng nhà Thornton: cầu thang cong gỗ óc chó, đèn chùm, bàn console với hũ kem Rosewood năm 1988 trong lồng kính. Beverly — đã bỏ cải trang: locs bạc búi thấp, cardigan cashmere kem, áo lụa tím mận — đứng giữa sảnh, tay cầm đôi giày chỉnh hình cũ vừa cởi; Nadine đứng cạnh.
-- Cửa gỗ đôi mở. Lúc này Darius mới bước vào (cao, râu quai nón gọn, vết sẹo mảnh xuyên lông mày trái, áo quarter-zip navy), dìu Bianca (hoodie xám, tóc rối, mặt mộc) đang nức nở bám chặt cánh tay anh.
+- Sảnh hai tầng nhà Thornton: cầu thang cong gỗ óc chó, đèn chùm, bàn console với hũ kem Rosewood năm 1988 trong lồng kính. Beverly — đã bỏ cải trang: locs bạc vấn thành vương miện cao cài một khoen vàng, cardigan cashmere kem, áo lụa tím mận — đứng giữa sảnh, tay cầm đôi giày chỉnh hình cũ vừa cởi; Nadine đứng cạnh.
+- Cửa gỗ đôi mở. Lúc này Darius mới bước vào (cao, vai rộng, kính tròn gọng vàng mảnh, tóc 360 waves, râu ngắn đen tỉa gọn, vết sẹo mảnh xuyên lông mày trái, áo quarter-zip navy), dìu Bianca (hoodie xám, tóc rối, mặt mộc) đang nức nở bám chặt cánh tay anh.
 - **DARIUS:** "Mama, what did you do to her?"
   *(VN) Mẹ, mẹ đã làm gì cô ấy vậy?*
 - **BEVERLY:** "What did I do?"
@@ -497,8 +501,8 @@ Claude soát độ hấp dẫn, chỉ ra hai đoạn người xem dễ bỏ ngan
 **Nhân vật:** AYANNA (AY3), EARNESTINE (EA2), BIANCA (BI3), BEVERLY (BV1, lúc này mới bước tới cửa)
 **Chức năng:** đẩy xung đột (kẻ ác sỉ nhục người già bằng hành động) + đặt (Earnestine nhìn Beverly) · **Cung bậc:** phẫn nộ → hài (clapback) · **Vòng:** M3 đối thủ mới · đặt R5 · đặt (cái đĩa rỗng → cụm 27, 70)
 
-- Khung đầu: bậc thềm gạch, cột trắng nhà Thornton. Ayanna (đầm wrap vàng mù tạt, bím xoã) và bà Earnestine (vest váy xanh hoàng gia, mũ nhà thờ rộng vành cùng màu cắm lông vũ, kính mắt mèo gọng vàng, găng trắng ngắn) đứng trước cửa gỗ đôi; Earnestine bưng đĩa thuỷ tinh bánh khoai lang phủ giấy bạc.
-- Cửa mở: Bianca (đầm satin tím lilac tay phồng, tóc vàng mật bóng mượt) đứng trong khung cửa; nụ cười trên mặt cô ta tắt.
+- Khung đầu: bậc thềm gạch, cột trắng nhà Thornton. Ayanna (đầm wrap vàng mù tạt, tóc tết Fulani xoã qua vai) và bà Earnestine (vest váy xanh hoàng gia, mũ nhà thờ rộng vành cùng màu cắm lông vũ, kính mắt mèo gọng vàng đeo dây hạt, găng trắng ngắn) đứng trước cửa gỗ đôi; Earnestine bưng đĩa thuỷ tinh bánh khoai lang phủ giấy bạc.
+- Cửa mở: Bianca (đầm satin tím lilac tay phồng, tóc vàng mật thẳng mái bằng) đứng trong khung cửa; nụ cười trên mặt cô ta tắt.
 - **BIANCA:** "Oh. The help brought pie."
   *(VN) Ồ. Người làm mang bánh tới.*
 - **EARNESTINE:** "And manners. Want a slice, or you full of yourself?"
@@ -634,7 +638,7 @@ Claude soát độ hấp dẫn, chỉ ra hai đoạn người xem dễ bỏ ngan
 **Chức năng:** đẩy xung đột (leo thang: cảnh sát tới nhà) · **Cung bậc:** sợ · **Vòng:** S10 ngược (cả xóm nhìn nữ chính) · M2 nén
 
 - Khung đầu: hiên trước căn nhà gạch một tầng ở Capitol Heights — ghế xích đu kim loại sơn xanh, hai ghế gấp, bụi đỗ quyên hồng, hàng rào lưới. Ayanna (scrubs xanh nhạt, thẻ nhân viên cuộn dây ở thắt lưng, túi vải đeo vai) vừa đẩy cửa lưới bước ra định đi làm.
-- Thám tử Imes (người da đen, vest xám, đầu cạo, ria mép tỉa gọn, phù hiệu vàng kẹp thắt lưng, sổ tay nhỏ) đứng ở bậc thềm dưới cùng.
+- Thám tử Imes (người da đen, cao to, vest xám, đầu cạo bóng, ria mép chữ V muối tiêu, khuyên vàng nhỏ ở tai trái, phù hiệu vàng kẹp thắt lưng, sổ tay nhỏ) đứng ở bậc thềm dưới cùng.
 - **IMES:** "Ayanna Ellis? Detective Imes, Prince George's County."
   *(VN) Cô Ayanna Ellis? Thám tử Imes, cảnh sát quận Prince George's.*
 - **IMES:** "A complaint was filed last night. Theft. Nine thousand cash."
@@ -643,7 +647,7 @@ Claude soát độ hấp dẫn, chỉ ra hai đoạn người xem dễ bỏ ngan
   *(VN) Của ai?*
 - **IMES:** "Your client from Thursday. Says you went in her bag."
   *(VN) Vị khách hôm thứ Năm của cô. Cô ta nói cô đã lục túi cô ta.*
-- Bên kia đường, ba hàng xóm đứng trên hiên nhìn sang; Tamia (hoodie xám, tóc ngắn nhuộm đồng cam, kính gọng trong) nấp sau một chiếc xe đậu, giơ điện thoại quay.
+- Bên kia đường, ba hàng xóm đứng trên hiên nhìn sang; Tamia (hoodie xám, tóc xoăn ngắn nhuộm đồng cam, kính gọng trong to tròn, khuyên vách mũi, tai nghe đeo cổ) nấp sau một chiếc xe đậu, giơ điện thoại quay.
 
 **Khung kết:** Ayanna nhìn qua vai thám tử, thấy Tamia đang quay.
 **Móc:** Ayanna có bị bắt?
@@ -652,7 +656,7 @@ Claude soát độ hấp dẫn, chỉ ra hai đoạn người xem dễ bỏ ngan
 **Nhân vật:** EARNESTINE (EA1, lúc này mới bước ra qua cửa lưới), AYANNA, IMES; nền
 **Chức năng:** lật nhỏ (hài) · **Cung bậc:** hài → hy vọng · **Vòng:** S1 (bà nội ra mặt) · xoay cảm xúc chống mỏi
 
-- Cửa lưới kêu cót két: Earnestine (áo choàng mặc nhà tím hoa cà có hàng khuy bấm, dép vải, bonnet satin tím, kính mắt mèo gọng vàng) bước ra hiên, khoanh tay.
+- Cửa lưới kêu cót két: Earnestine (áo choàng mặc nhà tím hoa cà có hàng khuy bấm, dép vải, bonnet satin tím, kính mắt mèo gọng vàng đeo dây hạt) bước ra hiên, khoanh tay.
 - **EARNESTINE:** "Detective, she never stole nothing but my good wig for prom."
   *(VN) Thám tử, nó chưa từng trộm gì ngoài bộ tóc giả xịn của tôi hồi đi prom.*
 - **IMES** (nén cười): "Yes, ma'am."
@@ -1148,7 +1152,7 @@ Claude soát độ hấp dẫn, chỉ ra hai đoạn người xem dễ bỏ ngan
 **Nhân vật:** EARNESTINE (EA3 — đã mặc sẵn đồ dạ tiệc), CHARLENE (CH1), LOCKSMITH (PHU, không nói)
 **Chức năng:** **đáy vực** · **Cung bậc:** đau · **Vòng:** M2 im lặng · S9 (kẻ ác ở đỉnh)
 
-- Hiên nhà Earnestine, trưa thứ Bảy: một thợ khoá (áo đồng phục xám, hộp đồ nghề) đang thay ổ khoá cửa trước; Charlene (áo da báo) đứng cạnh, nhìn đồng hồ đeo tay. Earnestine đứng trên hiên, đã mặc sẵn bộ hai mảnh ren màu sâm panh và mũ fascinator, hai tay ôm ví cầm tay.
+- Hiên nhà Earnestine, trưa thứ Bảy: một thợ khoá (mũ len xám, áo đồng phục xám, hộp đồ nghề) đang thay ổ khoá cửa trước; Charlene (áo da báo) đứng cạnh, nhìn đồng hồ đeo tay. Earnestine đứng trên hiên, đã mặc sẵn bộ hai mảnh ren màu sâm panh và mũ fascinator, hai tay ôm ví cầm tay.
 - **CHARLENE:** "Twelve-oh-five, Miss Earnestine. Noon came and went."
   *(VN) Mười hai giờ năm, bà Earnestine. Trưa qua rồi.*
 - **EARNESTINE:** "You changing the locks on a seventy-seven-year-old woman?"
@@ -1167,7 +1171,7 @@ Claude soát độ hấp dẫn, chỉ ra hai đoạn người xem dễ bỏ ngan
 **Nhân vật:** AYANNA (AY5), DARIUS (DA1), EARNESTINE (EA3)
 **Chức năng:** lật nhỏ (đứng dậy từ đáy) + móc · **Cung bậc:** đau → quyết tâm · **Vòng:** M2 → bật lên · gia đình
 
-- Một chiếc SUV đen dừng ở lề đường. Ayanna (jumpsuit đen, đai đựng lược ngang hông, bím vấn vương miện) và Darius (quarter-zip navy) bước xuống, thấy ổ khoá mới sáng loáng trên cửa, chạy lên bậc thềm.
+- Một chiếc SUV đen dừng ở lề đường. Ayanna (jumpsuit đen, đai đựng lược ngang hông, tóc tết Fulani vấn vương miện) và Darius (quarter-zip navy) bước xuống, thấy ổ khoá mới sáng loáng trên cửa, chạy lên bậc thềm.
 - Ayanna ngồi xổm trước ghế bà, nắm lấy hai tay bà.
 - **AYANNA:** "Big Mama. Are you okay?"
   *(VN) Bà ơi. Bà có sao không?*
@@ -1394,7 +1398,7 @@ Claude soát độ hấp dẫn, chỉ ra hai đoạn người xem dễ bỏ ngan
 
 - **BIANCA** (hoảng, chỉ về phía cửa bên): "My assistant printed that! I didn't even look at it!"
   *(VN) Trợ lý của tôi in cái đó! Tôi còn chẳng thèm nhìn!*
-- Cửa bên trái mở: Tamia (váy slip đen, áo khoác jean, tóc ngắn đồng cam) bước vào, giơ cao điện thoại gắn gimbal.
+- Cửa bên trái mở: Tamia (váy slip đen, áo khoác jean, tóc xoăn ngắn đồng cam, kính gọng trong to tròn) bước vào, giơ cao điện thoại gắn gimbal.
 - **TAMIA:** "I printed it 'cause you told me to."
   *(VN) Tôi in vì cô bảo tôi in.*
 - **TAMIA:** "And I never ended your live."
