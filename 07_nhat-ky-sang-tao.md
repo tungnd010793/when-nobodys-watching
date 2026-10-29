@@ -20,3 +20,6 @@
 
 ### 30/10/2026 00:38
 - **Đã làm / quyết định:** CHỐT MỐC: hoàn thiện kịch bản chính thức
+
+### 30/10/2026 04:35
+- **Đã làm / quyết định:** chốt nhân vật và sửa kịch bản
