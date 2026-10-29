@@ -1,0 +1,53 @@
+# DANH SÁCH MÃ SHA-256 ("dấu vân tay") CỦA MỌI FILE TRONG DỰ ÁN
+# Dự án           : WHEN_NOBODYS_WATCHING
+# Tác giả         : Nguyễn Đức Tùng <ndtung.aipro2024@gmail.com>
+# Lập lúc         : 2026-10-30 01:31:22 +07:00  (đồng hồ máy; thời điểm tin cậy: file .ots/.tsr cùng tên)
+# Commit trước đó : 329297dfe37cd2a40b87ec095a2ee11a68500a9a
+# Số file         : 46
+# Tự kiểm tra     : mở Git Bash tại thư mục gốc dự án, chạy: sha256sum -c bang-chung/manifest/<tên file này>
+d57ea22a4532d009ee53ef5c3e18fec6f8ea02b2b9bf00f2a765f478aa905dcd *.gitattributes
+3fad291cc2ccbe507f460667a83e9407a26a0ed784558460c8aff3e1c9c36543 *.gitignore
+222b7d9d4f0357a0aad68572591cf909d558b98900ea42d60ff30bff1d02170a *01_y-tuong-ban-dau.md
+02aa814df38e0d3968184fbeb67508304ca7ee7bda5d7d0ea10dfda1c2bfba1d *02_kich-ban-ban-nhap.md
+b249a806903d91244db4d1a73402dcd17c98b448033fb9d6d78a79ed64397868 *03_kich-ban-chinh-sua.md
+75f688107f305eb0fc91994c7679877401fc681614157cebf97871371f4b4e83 *04_kich-ban-chinh-thuc.md
+c664ae3fb2e3d9229d3e478ae4425be85d989e7f481a9e7f557e16935c82011a *05_prompt-tao-video.md
+ea9352c55cd3ed79221f4b2e1abfca35576364ab250692dc69db6d202138f5f1 *06_tuyen-bo-ban-quyen.md
+ed10402471d8ef8cfe6f12fb425cd0e662e67e85edaaed12a22acfaa7a75c45b *07_nhat-ky-sang-tao.md
+ce034df426881403abb330fbee87a60dce2990d7e56d1a964e7b1b9c6f49f350 *08_hoi-thoai-ai/HUONG-DAN.md
+30328431dce8d62a75ffbbc63e30b23263672987cecd960d26be3e1ad82abd87 *08_hoi-thoai-ai/claude-code/1ecc6cc1-892c-48ba-8de3-5bac9f178118.jsonl
+f23255f7a757502c968d8b62d20e374f2de0e5c3547b509aec21294dc1ad1560 *09_media/HUONG-DAN.md
+43d147afb924fe1c725c1cc3d9c4d09f9dfbf46485c5149e9a13f6e85eade3fc *09_media/ai-tao-ra/NV-AYA-01.png
+7bf0673966ba19ab817e38574a6c97c08ec650a25d36ffe32bdc6ff23ec30fd1 *09_media/ai-tao-ra/NV-AYA-02.png
+cd656afbefbf13d5c2f455740e04f22caf5889b10776beb5e9eabe2e9b2456e7 *09_media/ai-tao-ra/NV-AYA-03.png
+bc1bb4644790e968724034b90c386a622229723a5441824bcce791db8ba47e96 *09_media/ai-tao-ra/NV-BEV-01.png
+0d0283e190ec5f395b9f111c39bb04bae6367b0c3f628f6c4046be0a1c83a4b3 *09_media/ai-tao-ra/NV-BEV-02.png
+e6a497a73f0d55786cb77b97e23884d8d727c0ce438f4116f387289772eac3d4 *09_media/ai-tao-ra/NV-BEV-03.png
+837903c0a55eeb5612e9b0d373ca1b28c22d1d1febd3b50fef2223b1be51a3ad *09_media/ai-tao-ra/NV-BIA-01.png
+164eb9a7e66a5c2350d327c550a57e81fe8207aafa21495db04a7df69b8f5884 *09_media/ai-tao-ra/NV-BIA-02.png
+8b312953b1a45eb9d577aa505a09c689c26c127f369c8e1f6f82b8b00054e851 *09_media/ai-tao-ra/NV-BIA-03.png
+5cabf32d76e2fb6b7d5bae29ab89561a4458ccb3305c6aa5df9bb62f1a7d0e0d *09_media/ai-tao-ra/NV-BIA-04.png
+978c41ec5af328900b86270f6a62edcb187934d2eb9a61c400a90fa0dda5f20c *09_media/ai-tao-ra/NV-CHA-01.png
+4f01e2f59970ab205ec8a817c31752fd972392ef86127988c1585ab586781cc1 *09_media/ai-tao-ra/NV-CHA-02.png
+f374ff2ec642baf7a6474513897c2ae9da792ffa9af904823b014f644a7b61dd *09_media/ai-tao-ra/NV-DAR-01.png
+c0745bd45c5a3d2a317c82e117d75226256210346080d1b95ad96f8288296b2b *09_media/ai-tao-ra/NV-DAR-02.png
+ffd5d3ba517857cd38b1bac6aaceaea0ec7546b196ca18d12833c1e8018628a1 *09_media/ai-tao-ra/NV-DAR-03.png
+ab905a8158bfa21d8ee7b16fb34dff60321195540744d1dd9d1562fe82a2bf75 *09_media/ai-tao-ra/NV-DAR-04.png
+08c62c75022ccb5af8a90c88e41e63fefba68e3ccb5391e09a054178bd9e9513 *09_media/ai-tao-ra/NV-EAR-01.png
+db62d1208f746ad2946d28b75f9d7a038f3fd15d00d4cdbc98ceec092657245c *09_media/ai-tao-ra/NV-EAR-02.png
+58c1f8981e0cac4143c7cc0dd6b1d5eb15f124be155b36d2e6ad17e24e1a76b9 *09_media/ai-tao-ra/NV-EAR-03.png
+8700fac23d8c4f828e9a06acce997296c918c3e3e7e4a186e77b4f8e2e34f9a8 *09_media/ai-tao-ra/NV-IME-01.png
+feb4ab3affa376aa780dcfc5790a52f807d41940a810dd5442fd3c9c9ba62126 *09_media/ai-tao-ra/NV-IME-02.png
+d76ac57032a373dbf8b7769b10cd701e1288cbca6d99c4422e2c4534c4332497 *09_media/ai-tao-ra/NV-LAT-01.png
+d7013a1cee765aa08f1c0a55a48dd5413dd147ef7bf5a5e2e752a6184f5ce470 *09_media/ai-tao-ra/NV-LAT-02.png
+5943248266a971c2441c038e97fafa39b1a63ef425f3a70c26a5bebb83eed602 *09_media/ai-tao-ra/NV-NAD-01.png
+4257f26dba7b2b2ce450ce8f6a381bd2d7d22abceb8247607bc1cf384a5def51 *09_media/ai-tao-ra/NV-NAD-02.png
+1542c345fdd71df1e26d855d2d9e8b1da69bfd794f11ff579aa854defda4356c *09_media/ai-tao-ra/NV-TAM-01.png
+b0d21815a271970166d66413f31bcf448bd32ceca6195df6bcf2ef32d2afbff4 *09_media/ai-tao-ra/NV-TAM-02.png
+6942a992dc98526ca7a828bad9863a964aff5f2aab03e17c659e4e650731ae92 *09_media/ai-tao-ra/_jpg_NV-BIA-03.jpg
+c648a796106517eed9b8c857d8476d816ea813e47f619170de5b095929a76cf0 *CHOT-MOC.bat
+d6826a45c0c7b2945936750b42a6f6eeb8ea7919ba9aed83d17d93d3228d6394 *KIEM-TRA.bat
+109ae52aac42a3871a01e7c1b39dbb270259fdd056eb2c2f115ba538aa8e5ecf *LUU.bat
+35dd9337c765bcd4e568ef4f4b463a8e1895dea62b9b0e90151122038d1b52c8 *README.md
+44fa84fad84229503b8ac7118e1974a4007102d9f3efdf76b1909e713795311a *THIET_KE.md
+23f55f6c6184889f6657c61b693e871b39177bd0aac53684cd5b538c0fcde639 *du-an.json
