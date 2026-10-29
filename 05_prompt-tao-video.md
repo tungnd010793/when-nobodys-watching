@@ -573,6 +573,7 @@ Use the attached image as the identity reference. Keep exactly the same woman: t
 - **Kết quả (30/10/2026):** đợt 1 tạo 72/72 ảnh (8 mặt vai phụ, 34 ảnh đồ, 8 bảng 4 góc tự cắt 32 panel, 2 ngoại cảnh, 21 đạo cụ); đợt 2 tạo 36/36 bảng nhân vật 2 ô. `SHEET_CHARLENE_CH2C` (còng tay) bị chặn kiểm duyệt 2 lần, lần 3 qua.
 - **Sửa lại:** `PROP_NOTICE` ra ảnh ghép nhiều cảnh, `LOC_VELOUR_BOARDWALK` ra biệt thự → viết prompt riêng ở `anh/_prompt_rieng.json`, tạo lại 1 lần, đạt.
 - **Claude soát (gợi ý, tác giả quyết):** các bảng đều nằm ngang, mặt ô cận khớp ô toàn thân; Darius giữ kính + râu, Ayanna đúng Fulani braids cài hạt, Bianca giữ dáng đồng hồ cát. Cần tác giả xem kỹ: mặt Beverly ở ô cận hơi già và gầy hơn ảnh chốt `NV-BEV-03`; váy BI5 cúp ngực và BI1 váy ngắn có thể vướng kiểm duyệt khi gen video; ô cận mặt theo khuôn cũ để cổ trần (không áo).
+- **Tạo lại theo yêu cầu tác giả (30/10/2026):** 4 bảng `SHEET_BEVERLY_BV0…BV3` vì mặt ô cận già, gầy hơn ảnh chốt. Cách sửa (bài học trôi mặt của phim cũ): `anh/_goc_rieng.json` chỉ gửi kèm `CHAR_BEVERLY_FACE` + `OUTFIT_<mã>` (không gửi bảng BV0 cũ), `anh/_prompt_rieng.json` thêm câu giữ mặt ("Keep EXACTLY the face of the first uploaded image… NOT gaunt, NOT older…"). 4/4 đạt lượt đầu; mặt khớp ảnh chốt (khe răng, tàn nhang, khoen vàng, khuyên tai đồng). Bản cũ ở `anh/_cu/`.
 - **Đánh giá & quyết định của tác giả:**
 
 ## Cảnh 1 — [tên cảnh]
