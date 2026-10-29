@@ -576,6 +576,17 @@ Use the attached image as the identity reference. Keep exactly the same woman: t
 - **Tạo lại theo yêu cầu tác giả (30/10/2026):** 4 bảng `SHEET_BEVERLY_BV0…BV3` vì mặt ô cận già, gầy hơn ảnh chốt. Cách sửa (bài học trôi mặt của phim cũ): `anh/_goc_rieng.json` chỉ gửi kèm `CHAR_BEVERLY_FACE` + `OUTFIT_<mã>` (không gửi bảng BV0 cũ), `anh/_prompt_rieng.json` thêm câu giữ mặt ("Keep EXACTLY the face of the first uploaded image… NOT gaunt, NOT older…"). 4/4 đạt lượt đầu; mặt khớp ảnh chốt (khe răng, tàn nhang, khoen vàng, khuyên tai đồng). Bản cũ ở `anh/_cu/`.
 - **Đánh giá & quyết định của tác giả:**
 
+## Prompt video 70 cụm — viết tay tiếng Trung (30/10/2026)
+
+> Tác giả yêu cầu: viết prompt 70 cụm theo khuôn tiếng Trung chuẩn của các phim trước, bám sát ảnh nhân vật và bối cảnh; **trang phục nữ phản diện (Bianca) không tả, chỉ tham chiếu ảnh** (tránh bị chặn).
+
+- **Khuôn:** skill `viet-prompt-seedance-zh-tay` (9 khối, thoại `{…}` không ngoặc kép, mã `TÊN（@图片N）` ở mọi chỗ nhắc nhân vật / panel / đạo cụ), bài mẫu THE LOVE CLAUSE cụm 1.
+- **Quy chuẩn riêng của phim:** `09_media/xuong/_zh/QUY_CHUAN_VIET.md` — câu nhận diện 13 nhân vật, câu trang phục từng mã, câu chuẩn 32 panel viết theo ảnh bảng 4 góc, câu người nền, đạo cụ, luật INSERT / gọi điện / kiểm duyệt.
+- **Bài:** `09_media/xuong/_zh/prompt/cum_001.txt … cum_070.txt` + `cum_NNN.refs` (ảnh gửi theo thứ tự @图片1…N, 3–9 ảnh/cụm). Claude soạn quy chuẩn và giao 7 tác tử AI viết song song (mỗi tác tử 10 cụm), Claude soát lại.
+- **Soát:** `09_media/xuong/_zh/soat_prompt.py` — 70/70 bài 0 lỗi (thoại trùng nguyên văn kịch bản 04, mã ảnh khớp .refs, ảnh có thật, mốc 0–30 liền, không chữ cấm, Bianca không tả trang phục). Sửa sau soát: cụm 58 đổi `SHEET_LATASHA_LA2` → `LA3`; quy chuẩn bỏ 3 câu dính chữ cấm (打结, 胸前, 没有枪).
+- **Chưa render.** Điểm chờ tác giả quyết: tạp dề Ayanna cụm 5–9; xe Charlene (coupe trắng / SUV đen); hình xăm nhịp tim không thấy trong ảnh nên không nhắc.
+- **Đánh giá & quyết định của tác giả:**
+
 ## Cảnh 1 — [tên cảnh]
 
 ### C01-01

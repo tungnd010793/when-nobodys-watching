@@ -26,3 +26,7 @@
 
 ### 30/10/2026 04:35
 - **Đã làm / quyết định:** CHỐT MỐC: hoàn thiện kịch bản
+
+### 30/10/2026 05:26
+- **Đã làm / quyết định:** tạo xong prompt tạo video
+- **File thay đổi:** `09_media/xuong/_zh/QUY_CHUAN_VIET.md`, `09_media/xuong/_zh/prompt/cum_001.refs`, `09_media/xuong/_zh/prompt/cum_001.txt`, `09_media/xuong/_zh/prompt/cum_002.refs`, `09_media/xuong/_zh/prompt/cum_002.txt`, `09_media/xuong/_zh/prompt/cum_003.refs`, `09_media/xuong/_zh/prompt/cum_003.txt`, `09_media/xuong/_zh/prompt/cum_004.refs`, `09_media/xuong/_zh/prompt/cum_004.txt`, `09_media/xuong/_zh/prompt/cum_005.refs`, `09_media/xuong/_zh/prompt/cum_005.txt`, `09_media/xuong/_zh/prompt/cum_006.refs`, `09_media/xuong/_zh/prompt/cum_006.txt`, `09_media/xuong/_zh/prompt/cum_007.refs`, `09_media/xuong/_zh/prompt/cum_007.txt`, `09_media/xuong/_zh/prompt/cum_008.refs`, `09_media/xuong/_zh/prompt/cum_008.txt`, `09_media/xuong/_zh/prompt/cum_009.refs`, `09_media/xuong/_zh/prompt/cum_009.txt`, `09_media/xuong/_zh/prompt/cum_010.refs` … và 124 file khác
