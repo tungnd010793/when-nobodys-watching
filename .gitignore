@@ -22,3 +22,6 @@
 Thumbs.db
 desktop.ini
 .DS_Store
+
+# Tự động thêm 2026-10-30 14:34:18 +07:00: file quá lớn để đẩy lên GitHub (vẫn được lưu mã SHA-256)
+/08_hoi-thoai-ai/claude-code/1ecc6cc1-892c-48ba-8de3-5bac9f178118.jsonl
