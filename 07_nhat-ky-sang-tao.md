@@ -34,3 +34,6 @@
 ### 30/10/2026 13:33
 - **Đã làm / quyết định:** tạo xong video ai bằng prompt
 - **File thay đổi:** `09_media/xuong/qc/cum_069.jpg`, `08_hoi-thoai-ai/claude-code/1ecc6cc1-892c-48ba-8de3-5bac9f178118.jsonl`, `09_media/xuong/qc/.da_gui_cong.json`, `09_media/xuong/qc/QC.md`, `09_media/xuong/qc/qc.json`
+
+### 30/10/2026 19:40
+- **Đã làm / quyết định:** CHỐT MỐC: dựng xong video
