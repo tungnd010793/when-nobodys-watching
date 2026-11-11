@@ -21,12 +21,6 @@ Thiết kế sản xuất (nhân vật, trang phục, bối cảnh, đạo cụ)
   và khu ven sông National Harbor
 - Thời gian truyện: thứ Năm 23/4/2026 đến thứ Bảy 2/5/2026 (10 ngày, mùa
   hoa đỗ quyên)
-- Video mẫu: https://youtu.be/55-IE6JdYKM (phim Trung Quốc "mẹ chồng tỷ phú
-  giả nghèo", 60 phút). Giữ khung xương: cải trang thử lòng, người tốt bị
-  đuổi việc, công ơn bị cướp, phản diện livestream phản đòn, mẹ chồng giả vờ
-  khuất phục. Đổi toàn bộ bối cảnh, nhân vật và cú lật; không trùng phim
-  MOTHER OF THE GROOM (không đám cưới, không hắt nước).
-
 
 ------------------------------------------------------------------------------
 2. Ý TƯỞNG CỐT LÕI
